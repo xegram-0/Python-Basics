@@ -7,3 +7,7 @@ def print_index_string(string):
 
 string = input("Enter string: ")
 print_index_string(string)
+# can also use list
+# word = list(words)
+# for x in word[x::2]:
+#   print(x)
